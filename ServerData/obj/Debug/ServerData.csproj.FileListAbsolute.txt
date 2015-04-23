@@ -1,0 +1,5 @@
+E:\My CSharp Projects\Mentor\ServerData\bin\Debug\ServerData.dll
+E:\My CSharp Projects\Mentor\ServerData\bin\Debug\ServerData.pdb
+E:\My CSharp Projects\Mentor\ServerData\obj\Debug\ServerData.csprojResolveAssemblyReference.cache
+E:\My CSharp Projects\Mentor\ServerData\obj\Debug\ServerData.dll
+E:\My CSharp Projects\Mentor\ServerData\obj\Debug\ServerData.pdb
